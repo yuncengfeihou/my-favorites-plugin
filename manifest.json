@@ -1,0 +1,11 @@
+{
+    "display_name": "Favorites3.0",
+    "loading_order": 10,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "",
+    "author": "SillyTavern Developer",
+    "version": "1.0.0",
+    "homePage": ""
+}
